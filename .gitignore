@@ -1,0 +1,10 @@
+# Local archive of the site — not tracked
+my_website.zip
+
+# OS / editor cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
